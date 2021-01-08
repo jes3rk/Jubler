@@ -8,3 +8,19 @@ target/
 modules/installer/secret/code-signing.p12
 modules/installer/secret/apple-keysign.p12
 upload
+
+# eclipse 
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
